@@ -16,6 +16,7 @@
 		    .appendTo('#slide');
 		},  3000);		
 	</script>
+
 </head>
 <body class="main-responsive-body">
 	<nav class="navbar">
@@ -31,17 +32,37 @@
 		<div id="slide">
 			<div>
 				<div class="bdone">
-					
+					<div class="inner-one">
+						<hgroup class="one">
+							<h1>Vive</h1>
+						</hgroup>
+						<p>
+							Comparte tus gustos, conoce
+							nueva gente, socializa y encuentra a alguien con tus mismos gustos.
+						</p>
+					</div>
+						<img class="facebook-banner" src="Public/Images/facebook.png">			
+						<img class="instagram-banner" src="Public/Images/instagram.png">
+						<img class="snap-banner" src="Public/Images/snap.png">	
+						<img class="whats-banner" src="Public/Images/whats.png">	
 				</div>
 			</div>
 			<div>
 				<div class="bdtwo">
-					
+
 				</div>
 			</div>
 			<div>
 				<div class="bdthree">
-					
+					<div class="inner-three">
+						<hgroup class="three">
+							<h1>Inovación</h1>
+						</hgroup>
+						<p>
+							Novaconnect constantemente trabaja para brindarte
+							los mejores productos.	
+						</p>	
+					<div>					
 				</div>
 			</div>
 		</div>

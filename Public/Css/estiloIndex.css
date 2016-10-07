@@ -55,30 +55,78 @@
 .bdone{
 	background:url("../Images/com.jpg");
 	  -webkit-background-size: cover;
-  -moz-background-size:cover;
-  -o-background-size:cover;
-  background-size:cover;
-  background-position:center;
-    width:100vw;	
-  height:720px;
+	  -moz-background-size:cover;
+	  -o-background-size:cover;
+	  background-size:cover;
+	  background-position:center;
+	    width:100vw;	
+	  height:720px;
+	  font-family:Raleway;
 }
 .bdtwo{
 	background:url("../Images/proc.jpg");
-  -webkit-background-size: cover;
-  -moz-background-size:cover;
-  -o-background-size:cover;
-  background-size:cover;
-  background-position:center;
-  width:100vw;	
-  height:720px;
+	  -webkit-background-size: cover;
+	  -moz-background-size:cover;
+	  -o-background-size:cover;
+	  background-size:cover;
+	  background-position:center;
+	  width:100vw;	
+	  height:720px;
 }
 .bdthree{
 	background:url("../Images/tec.jpg");
-	  -webkit-background-size: cover;
-  -moz-background-size:cover;
-  -o-background-size:cover;
-  background-size:cover;
-  background-position:center;
+	-webkit-background-size: cover;
+    -moz-background-size:cover;
+    -o-background-size:cover;
+    background-size:cover;
+    background-position:center;
     width:100%;	
-  height:720px;
+    height:720px;
+    color:white;
+    font-family:Raleway;
+}
+.inner-three{
+	width:300px;
+	height:200px;
+	position:absolute;
+	top:390px;
+	left:150px;	
+}
+
+.inner-one{
+	width:300px;
+	height:200px;
+	position:absolute;
+	top:250px;
+	left:150px;
+}
+.img-red-container{
+	position:;
+	width:50vw;
+	height:100%;
+	background:red;
+}
+.facebook-banner{
+	position:absolute;
+	top:90px;
+	left:80vw;
+	width:100px;
+}
+.instagram-banner{
+	position:absolute;
+	top:230px;
+	left:75vw;
+	width:80px;
+}
+.snap-banner{
+	position:absolute;
+	top:330px;
+	left:85vw;
+	width:70px;	
+}
+.whats-banner{
+	position:absolute;
+	top:450px;
+	left:75vw;
+	width:75px;
 }
