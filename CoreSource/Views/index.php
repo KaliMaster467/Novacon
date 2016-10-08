@@ -23,9 +23,9 @@
 		<ul class="navbar-list">
 			<li class="navbar-art"><a href="Index">Novaconnect</a></li>
 			<li class="navbar-art"><a href="Ala">Soporte</a></li>
-			<li class="navbar-art"><a href="Damn">BlackOS</a></li>
-			<li class="navbar-art"><a href="XD">PulseSync</a></li>
-			<li class="navbar-art"><a href="GG">HomeSync</a></li>
+			<li class="navbar-art"><a href="Damn">BlacXOS</a></li>
+			<li class="navbar-art"><a href="XD">PulseXync</a></li>
+			<li class="navbar-art"><a href="GG">HomeXync</a></li>
 		</ul>
 	</nav>
 	<section class="main-publish">
@@ -66,8 +66,18 @@
 	<section class="red-publish">
 		<div class="red-container">
 			<hgroup>
-				<h1>Conóce</h1>
+				<h1>Conóce PulseXync</h1>
 			</hgroup>
+			<div class="red-content">
+				<p>
+					Conoce personas con FriendTouch aplicacion que te permite interactuar con otro individuo de manera unica, <br><b>!! Solo basta con chocar las muñecas ¡¡</b>
+				</p>
+			</div>
+			<img class ="social-brands facebook-brand" src="Public/Images/facebook.png">
+			<img class="social-brands insta-brand" src="Public/Images/instagram.png">
+			<img src="Public/Images/snap.png" class="social-brands snap-brand">
+			<img class="bracelete-banner" src="Public/Images/bracelet.png">
+			<input class="btn-pulse" type="button" name="more-pulse" value="Ver mas PulseXync" onclick="location.href='Index';">
 		</div>
 	</section>
 </body>
