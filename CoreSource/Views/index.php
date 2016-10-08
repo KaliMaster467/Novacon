@@ -40,11 +40,7 @@
 							Comparte tus gustos, conoce
 							nueva gente, socializa y encuentra a alguien con tus mismos gustos.
 						</p>
-					</div>
-						<img class="facebook-banner" src="Public/Images/facebook.png">			
-						<img class="instagram-banner" src="Public/Images/instagram.png">
-						<img class="snap-banner" src="Public/Images/snap.png">	
-						<img class="whats-banner" src="Public/Images/whats.png">	
+					</div>	
 				</div>
 			</div>
 			<div>
@@ -62,11 +58,17 @@
 							Novaconnect constantemente trabaja para brindarte
 							los mejores productos.	
 						</p>	
-					<div>					
+					</div>					
 				</div>
 			</div>
 		</div>
 	</section>
-
+	<section class="red-publish">
+		<div class="red-container">
+			<hgroup>
+				<h1>Conóce</h1>
+			</hgroup>
+		</div>
+	</section>
 </body>
 </html>

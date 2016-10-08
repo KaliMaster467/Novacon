@@ -5,7 +5,7 @@
 }
 
 .navbar {
-	width:100vw;
+	width:100%;
 	height:45px;
 	background:#171717;
 }
@@ -35,11 +35,15 @@
 	font-size:1.05em;
 	text-align:center;
 }	
+.main-publish{
+	width:100%;
+	height:750px;
+}
 #slide{
 	margin:0;
 	position:relative;
 	width:100%;
-	height:750px;
+	height:100%;
 	padding:0px;
 
 }
@@ -59,8 +63,8 @@
 	  -o-background-size:cover;
 	  background-size:cover;
 	  background-position:center;
-	    width:100vw;	
-	  height:720px;
+	    width:100%;	
+	  height:100%;
 	  font-family:Raleway;
 }
 .bdtwo{
@@ -70,8 +74,8 @@
 	  -o-background-size:cover;
 	  background-size:cover;
 	  background-position:center;
-	  width:100vw;	
-	  height:720px;
+	  width:100%;	
+	  height:100%;
 }
 .bdthree{
 	background:url("../Images/tec.jpg");
@@ -81,7 +85,7 @@
     background-size:cover;
     background-position:center;
     width:100%;	
-    height:720px;
+    height:100%;
     color:white;
     font-family:Raleway;
 }
@@ -100,33 +104,19 @@
 	top:250px;
 	left:150px;
 }
-.img-red-container{
-	position:;
-	width:50vw;
-	height:100%;
-	background:red;
+.red-publish{
+	width:100%;
+	height:350px;
 }
-.facebook-banner{
-	position:absolute;
-	top:90px;
-	left:80vw;
-	width:100px;
+.red-container{
+	padding-left:50px;
+	padding-right:50px;
+	padding-top:60px;
+	padding-bottom:60px;
 }
-.instagram-banner{
-	position:absolute;
-	top:230px;
-	left:75vw;
-	width:80px;
+.red-container hgroup{
+	text-align:center;
+	font-family:Raleway;
+	font-size:1.2em;
 }
-.snap-banner{
-	position:absolute;
-	top:330px;
-	left:85vw;
-	width:70px;	
-}
-.whats-banner{
-	position:absolute;
-	top:450px;
-	left:75vw;
-	width:75px;
-}
+
