@@ -64,7 +64,14 @@
 		</div>
 	</section>
 	<section class="red-publish">
+			<div class="brand-container">
+				<img class ="social-brands facebook-brand" src="Public/Images/facebook.png">
+				<img class="social-brands insta-brand" src="Public/Images/instagram.png">
+				<img src="Public/Images/snap.png" class="social-brands snap-brand">	
+				<img class="social-brands whats-brand" src="Public/Images/whats.png">			
+			</div>			
 		<div class="red-container">
+
 			<hgroup>
 				<h1>Conóce PulseXync</h1>
 			</hgroup>
@@ -73,11 +80,15 @@
 					Conoce personas con FriendTouch aplicacion que te permite interactuar con otro individuo de manera unica, <br><b>!! Solo basta con chocar las muñecas ¡¡</b>
 				</p>
 			</div>
-			<img class ="social-brands facebook-brand" src="Public/Images/facebook.png">
-			<img class="social-brands insta-brand" src="Public/Images/instagram.png">
-			<img src="Public/Images/snap.png" class="social-brands snap-brand">
+
+
 			<img class="bracelete-banner" src="Public/Images/bracelet.png">
 			<input class="btn-pulse" type="button" name="more-pulse" value="Ver mas PulseXync" onclick="location.href='Index';">
+		</div>
+	</section>
+	<section class="black-manager">
+		<div class="black-container">
+			
 		</div>
 	</section>
 </body>
