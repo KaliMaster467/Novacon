@@ -73,7 +73,7 @@
 		<div class="red-container">
 
 			<hgroup>
-				<h1>Conóce PulseXync</h1>
+				<h1>Conoce PulseXync</h1>
 			</hgroup>
 			<div class="red-content">
 				<p>
@@ -91,5 +91,10 @@
 			
 		</div>
 	</section>
+	<footer class="footer-adv">
+		<div class="footer-descript">
+			
+		</div>
+	</footer>
 </body>
 </html>
