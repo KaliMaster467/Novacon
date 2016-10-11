@@ -3,6 +3,7 @@
 	<title>Index</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link rel="stylesheet" type="text/css" href="Public/Css/estiloIndex.css">
+	<link rel="stylesheet" type="text/css" href="Public/Css/estiloBase.css">
 	<script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
 	<script type="text/javascript">
 		$("#slide > div:gt(0)").hide();
@@ -24,7 +25,7 @@
 			<li class="navbar-art"><a href="Index">Novaconnect</a></li>
 			<li class="navbar-art"><a href="Ala">Soporte</a></li>
 			<li class="navbar-art"><a href="Damn">BlacXOS</a></li>
-			<li class="navbar-art"><a href="XD">PulseXync</a></li>
+			<li class="navbar-art"><a href="Pxync">PulseXync</a></li>
 			<li class="navbar-art"><a href="GG">HomeXync</a></li>
 		</ul>
 	</nav>
@@ -83,7 +84,7 @@
 
 
 			<img class="bracelete-banner" src="Public/Images/bracelet.png">
-			<input class="btn-pulse" type="button" name="more-pulse" value="Ver mas PulseXync" onclick="location.href='Index';">
+			<input class="btn-pulse" type="button" name="more-pulse" value="Ver mas PulseXync" onclick="location.href='Pxync';">
 		</div>
 	</section>
 	<section class="black-manager">
