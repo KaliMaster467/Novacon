@@ -11,7 +11,6 @@
 			<li class="navbar-art"><a href="Ala">Soporte</a></li>
 			<li class="navbar-art"><a href="Damn">BlacXOS</a></li>
 			<li class="navbar-art"><a href="Pxync">PulseXync</a></li>
-			<li class="navbar-art"><a href="GG">HomeXync</a></li>
 		</ul>
 	</nav>
 	<section class="pulse-pub">

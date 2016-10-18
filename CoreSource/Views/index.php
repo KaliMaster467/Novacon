@@ -26,7 +26,6 @@
 			<li class="navbar-art"><a href="Ala">Soporte</a></li>
 			<li class="navbar-art"><a href="Damn">BlacXOS</a></li>
 			<li class="navbar-art"><a href="Pxync">PulseXync</a></li>
-			<li class="navbar-art"><a href="GG">HomeXync</a></li>
 		</ul>
 	</nav>
 	<section class="main-publish">
@@ -78,7 +77,7 @@
 			</hgroup>
 			<div class="red-content">
 				<p>
-					Conoce personas con FriendTouch aplicacion que te permite interactuar con otro individuo de manera unica, <br><b>!! Solo basta con chocar las muñecas ¡¡</b>
+					Conoce personas con FriendTouch, aplicación que te permite interactuar con otro individuo de manera unica, <br><b>!! Solo basta con chocar las muñecas ¡¡</b>
 				</p>
 			</div>
 
@@ -89,7 +88,20 @@
 	</section>
 	<section class="black-manager">
 		<div class="black-container">
-			
+			<img class ="monitor-display" src="Public/Images/mon.png">
+			<div class="Manager-descript">
+				<hgroup class="Manager-Title">
+					<h1>Obten Blanager</h1>
+				</hgroup>
+				<p>
+					Descarga Blanager para administrar tus dispositivos, 
+					mantenerlos conectados y poder personalizar tu experiencia en el 
+					maravilloso mundo de BlackOS.
+				</p>
+				<div class="download-btns">
+					<a href=""><img class="windows-down-btn" src="Public/Images/shareit-download-for-windows-badge.png"></a>
+				</div>
+			</div>
 		</div>
 	</section>
 	<footer class="footer-adv">
