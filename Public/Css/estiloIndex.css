@@ -28,9 +28,10 @@
 	  -o-background-size:cover;
 	  background-size:cover;
 	  background-position:center;
-	    width:100%;	
+	    width:100%;
 	  height:100%;
 	  font-family:Raleway;
+		font-size:1.2em;
 }
 .bdtwo{
 	background:url("../Images/proc.jpg");
@@ -38,9 +39,11 @@
 	  -moz-background-size:cover;
 	  -o-background-size:cover;
 	  background-size:cover;
-
-	  width:100%;	
+	  width:100%;
 	  height:100%;
+		color:white;
+		font-family:Raleway;
+		font-size:1.2em;
 }
 .bdthree{
 	background:url("../Images/tec.jpg");
@@ -49,19 +52,27 @@
     -o-background-size:cover;
     background-size:cover;
     background-position:center;
-    width:100%;	
+    width:100%;
     height:100%;
     color:white;
     font-family:Raleway;
+		font-size:1.2em;
 }
 .inner-three{
 	width:300px;
 	height:200px;
 	position:absolute;
 	top:390px;
-	left:150px;	
+	left:150px;
 }
+.inner-two{
 
+	width:300px;
+	height:200px;
+	position:absolute;
+	top:200px;
+	left:150px;
+}
 .inner-one{
 	width:300px;
 	height:200px;
@@ -69,10 +80,19 @@
 	top:250px;
 	left:150px;
 }
+/*EXP title back-flag*/
+
+.exp h1{
+	font-family:Lato;
+	color:white;
+	font-size:4em;
+	text-align: center;
+}
+
 .red-publish{
 	width:100%;
 	height:1300px;
-	background: black;
+	background:url("../Images/pulseback.jpg");
 	padding-top:70px;
 }
 .red-container{
@@ -83,7 +103,7 @@
 }
 .red-container hgroup{
 	text-align:center;
-	font-family:Raleway;
+	font-family:Lato;
 	color:white;
 	font-size:1.5em;
 }
@@ -93,7 +113,7 @@
 	padding-right:150px;
 }
 .red-content p{
-	
+
 	font-family:Raleway;
 	text-align:center;
 	color:white;
@@ -149,19 +169,20 @@
 .monitor-display{
 	width:700px;
 	position:absolute;
-	top:2350px;
+	top:2550px;
 	right:10px;
 }
 .Manager-descript{
 	width:50%;
 	margin:70px;
 	position:absolute;
-	top:2280px;
+	top:2550px;
+	left:100px;
 
 }
 .Manager-Title {
 
-	font-family:Raleway;
+	font-family:Lato;
 	font-size:1.4em;
 }
 .Manager-descript
@@ -177,4 +198,21 @@
 .windows-down-btn
 {
 	width:200px;
+}
+/*APP a partir del blackflag*/
+/*Inovation*/
+.Inovation
+{
+	width:100%;
+	height:60px;
+}
+.back-flag{
+	background:url("../Images/back_first.jpg")fixed;
+	-webkit-background-size: cover;
+		-moz-background-size:cover;
+		-o-background-size:cover;
+		background-size:cover;
+		background-position:center;
+	width:100%;
+	height:200px;
 }

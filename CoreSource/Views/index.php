@@ -8,14 +8,14 @@
 	<script type="text/javascript">
 		$("#slide > div:gt(0)").hide();
 
-		setInterval(function() { 
+		setInterval(function() {
 		  $('#slide > div:first')
 		    .fadeOut(1000)
 		    .next()
 		    .fadeIn(1000)
 		    .end()
 		    .appendTo('#slide');
-		},  3000);		
+		},  3000);
 	</script>
 
 </head>
@@ -40,12 +40,20 @@
 							Comparte tus gustos, conoce
 							nueva gente, socializa y encuentra a alguien con tus mismos gustos.
 						</p>
-					</div>	
+					</div>
 				</div>
 			</div>
 			<div>
 				<div class="bdtwo">
-
+					<div class="inner-two">
+						<hgroup class="two">
+							<h1>Estilo</h1>
+						</hgroup>
+						<p>
+							Nos empeñamos para que puedas expresarte
+							de una forma única, sin igual. Como en verdad eres.
+						</p>
+					</div>
 				</div>
 			</div>
 			<div>
@@ -56,20 +64,25 @@
 						</hgroup>
 						<p>
 							Novaconnect constantemente trabaja para brindarte
-							los mejores productos.	
-						</p>	
-					</div>					
+							los mejores productos.
+						</p>
+					</div>
 				</div>
 			</div>
 		</div>
+	</section>
+	<section class="back-flag">
+  	<hgroup class="exp">
+			<h1>Be Yourself :)</h1>
+		</hgropu>
 	</section>
 	<section class="red-publish">
 			<div class="brand-container">
 				<img class ="social-brands facebook-brand" src="Public/Images/facebook.png">
 				<img class="social-brands insta-brand" src="Public/Images/instagram.png">
-				<img src="Public/Images/snap.png" class="social-brands snap-brand">	
-				<img class="social-brands whats-brand" src="Public/Images/whats.png">			
-			</div>			
+				<img src="Public/Images/snap.png" class="social-brands snap-brand">
+				<img class="social-brands whats-brand" src="Public/Images/whats.png">
+			</div>
 		<div class="red-container">
 
 			<hgroup>
@@ -94,8 +107,8 @@
 					<h1>Obten Blanager</h1>
 				</hgroup>
 				<p>
-					Descarga Blanager para administrar tus dispositivos, 
-					mantenerlos conectados y poder personalizar tu experiencia en el 
+					Descarga Blanager para administrar tus dispositivos,
+					mantenerlos conectados y poder personalizar tu experiencia en el
 					maravilloso mundo de BlackOS.
 				</p>
 				<div class="download-btns">
@@ -106,7 +119,7 @@
 	</section>
 	<footer class="footer-adv">
 		<div class="footer-descript">
-			
+
 		</div>
 	</footer>
 </body>
