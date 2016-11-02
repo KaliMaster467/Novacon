@@ -108,8 +108,7 @@
 	padding-top:70px;
 }
 .red-container{
-	padding-left:90px;
-	padding-right:90px;
+
 	padding-top:80px;
 	padding-bottom:60px;
 }
@@ -117,7 +116,7 @@
 	text-align:center;
 	font-family:Lato;
 	color:white;
-	font-size:1.5em;
+	font-size:1.7em;
 }
 .red-content{
 	padding-top:80px;
@@ -129,8 +128,11 @@
 	font-family:Raleway;
 	text-align:center;
 	color:white;
+	width:650px;
 	font-size:1.5em;
+	margin:0 auto;
 }
+
 .brand-container{
 	width:420px;
 	height:50px;
@@ -155,18 +157,18 @@
 	margin-right:0px;
 }
 .bracelete-banner{
-	width:900px;
+	width:850px;
 	display:block;
 	margin:0 auto;
 	margin-top:60px;
 }
 .btn-pulse{
-	width:200px;
+	width:300px;
 	display:block;
 	margin:0 auto;
 	margin-top:120px;
 	height:50px;
-	border:solid 3px white;
+	border:solid 1px white;
 	font-size:1.2em;
 	color:white;
 	font-style:bold;

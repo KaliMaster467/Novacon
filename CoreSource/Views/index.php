@@ -1,6 +1,6 @@
 <html>
 <head>
-	<title>Index</title>
+	<title>Novacon</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link rel="stylesheet" type="text/css" href="Public/Css/estiloIndex.css">
 	<link rel="stylesheet" type="text/css" href="Public/Css/estiloBase.css">
@@ -84,16 +84,16 @@
 				<img class="social-brands whats-brand" src="Public/Images/whats.png">
 			</div>
 		<div class="red-container">
-
-			<hgroup>
-				<h1>Conoce PulseXync</h1>
-			</hgroup>
-			<div class="red-content">
-				<p>
-					Conoce personas con FriendTouch, aplicación que te permite interactuar con otro individuo de manera unica, <br><b>!! Solo basta con chocar las muñecas ¡¡</b>
-				</p>
+			<div class="red-des-container">
+				<hgroup>
+					<h1>Conoce PulseXync</h1>
+				</hgroup>
+				<div class="red-content">
+					<p>
+						Conoce personas con FriendTouch, aplicación que te permite interactuar con otro individuo de manera unica, <br><b>!! Solo basta con chocar las muñecas ¡¡</b>
+					</p>
+				</div>
 			</div>
-
 
 			<img class="bracelete-banner" src="Public/Images/bracelet.png">
 			<input class="btn-pulse" type="button" name="more-pulse" value="Ver mas PulseXync" onclick="location.href='Pxync';">
