@@ -31,7 +31,7 @@
 	    width:100%;
 	  height:100%;
 	  font-family:Raleway;
-		font-size:1.2em;
+		font-size:1.1em;
 }
 .bdtwo{
 	background:url("../Images/proc.jpg");
@@ -43,7 +43,7 @@
 	  height:100%;
 		color:white;
 		font-family:Raleway;
-		font-size:1.2em;
+		font-size:1.1em;
 }
 .bdthree{
 	background:url("../Images/tec.jpg");
@@ -56,7 +56,7 @@
     height:100%;
     color:white;
     font-family:Raleway;
-		font-size:1.2em;
+		font-size:1.1em;
 }
 .inner-three{
 	width:300px;
@@ -187,11 +187,11 @@
 	right:10px;
 }
 .Manager-descript{
-	width:50%;
+	width:40%;
 	margin:70px;
 	position:absolute;
 	top:2550px;
-	left:100px;
+	left:90px;
 
 }
 .Manager-Title {
